@@ -1,0 +1,17 @@
+VPN Benefits:
+- Encrypts internet traffic to prevent snooping.
+- Masks the real IP address to maintain anonymity.
+- Allows access to geo-restricted content.
+- Secures data over public Wi-Fi.
+
+VPN Limitations:
+- May reduce browsing and download speed.
+- Free VPNs may have limited server choices.
+- VPNs do not protect from phishing or malware.
+- Not a 100% anonymity guarantee (browser fingerprinting possible).
+
+Protocol used: WireGuard (TCP)
+IP address with VPN: 212.102.35.251 (Netherlands)
+Connection Time: 9 minutes
+IP address without VPN: 49.36.100.183 (India)
+Connection Time: 10 minutes
